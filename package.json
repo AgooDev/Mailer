@@ -1,0 +1,28 @@
+{
+  "name": "agoomailer",
+  "version": "0.1.0",
+  "description": "Mailer corporative mailing as a service.",
+  "main": "server.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://alejojamc@github.com/AgooDev/Mailer.git"
+  },
+  "keywords": [
+    "Agoo",
+    "express",
+    "maling",
+    "mailer"
+  ],
+  "author": "Agoo.com.co",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/AgooDev/Mailer/issues"
+  },
+  "homepage": "https://github.com/AgooDev/Mailer#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
